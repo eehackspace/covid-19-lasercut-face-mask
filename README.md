@@ -26,3 +26,5 @@ Preferred Cutting Order
 Material
 - 0.5mm or 0.8mm polypropylene sheeting.  [0.5mm here](https://www.kitronik.co.uk/materials/polypropylene/0-5mm-polypropylene-sheets.html)  [0.8mm here](https://www.kitronik.co.uk/materials/polypropylene/0-8mm-polypropylene-sheets.html)
 - Unpunched A4 clear acetate or PVC sheets of 150 micron thickness, an example can be found [here](https://smile.amazon.co.uk/Star-Office-Binding-Covers-micron/dp/B000J6F6EU)
+
+![laser cutter bed](images/covid-19_facemask_01.jpg)
