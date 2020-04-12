@@ -13,7 +13,7 @@ The East Essex Hackspace is a community resource, so once this situation is over
 
 We have so far reached our primary goal to get the cutter which is arriving on 13/4/2020, we have also used the money to purchase additional stock to produce these headbands and other PPE equipment.
 
-So far we have produced 1,500 full masks and 500 ear savers.  Once the new cutter arrives and we can begin using that capacity will greatly increase.  We have stock to produce almost 9,000 masks, every donation helps extend that number further.
+So far we have produced 1,500 full masks and 500 ear savers.  Once the new cutter arrives and we can begin using that and capacity will greatly increase.  We have stock to produce almost 9,000 masks, every donation helps extend that number further.
 
 So far masks have been given to:
 - hospitals
@@ -24,7 +24,7 @@ So far masks have been given to:
 - radiologists
 - renal care
 
-## Adaptations
+## Our Adaptations
 - lengthened the adjustable strap to accomodate larger heads
 - removed two support bands to reduce the width and fit better on the glowforges cutting bed
 - coloured the lines to define a cutting order
@@ -47,12 +47,20 @@ So far masks have been given to:
 - red
 
 ## Material
-- 0.5mm or 0.8mm polypropylene sheeting.  [0.5mm here](https://www.kitronik.co.uk/materials/polypropylene/0-5mm-polypropylene-sheets.html)  [0.8mm here](https://www.kitronik.co.uk/materials/polypropylene/0-8mm-polypropylene-sheets.html)
+- 0.5mm or 0.8mm polypropylene sheeting.  0.5mm [here](https://www.kitronik.co.uk/materials/polypropylene/0-5mm-polypropylene-sheets.html) and 0.8mm [here](https://www.kitronik.co.uk/materials/polypropylene/0-8mm-polypropylene-sheets.html)
 - Unpunched A4 clear acetate or PVC sheets of 150 micron thickness, an example can be found [here](https://smile.amazon.co.uk/Star-Office-Binding-Covers-micron/dp/B000J6F6EU)
+
+## Punching Holes
+It is simple and easy, get a standard 2 hole punch and set it to A6.  Then on each end of the clear sheet punch the holes.  This will make them align properly.
+
+![Hole Punch Spacing](images/hole_punch.jpg)
+
+Image Source: [Smoke and Mirrors Forum](https://community.andmirrors.co.uk/t/covid-19-laser-cut-face-shield/168)
+
 
 ## Assembly
 Here is a nice video which describes how to assemble the mask
 
-![assembly instructions](https://www.youtube.com/watch?v=FT3pfzjqE-c)
+[![Mask Assembly Video](https://img.youtube.com/vi/FT3pfzjqE-c/0.jpg)](https://www.youtube.com/watch?v=FT3pfzjqE-c)
 
 ![laser cutter bed](images/covid-19_facemask_01.jpg)
