@@ -13,10 +13,10 @@ Credit and Thanks
 - [Kitronic](https://www.kitronik.co.uk/) with their blog post [here](https://www.kitronik.co.uk/blog/kitronik-make-nhs-frontline-ppe-visors/)
 - [Nottingham Hackspace](https://nottinghack.org.uk/) with further details [here](https://wiki.nottinghack.org.uk/wiki/LaserCutCOVID-19_PPE)
 
-| File | Cutting Dimensions | Cutter | Mask Pieces | Notes |
-| :-- | :-- | :-- | :-- | :-- |
-| 490x264_Covid_19_Facemask_-_V0.5.1_EEH_Glowforge_basic_size_v2.svg | 490x264mm | Glowforge Basic | 5xstrap, 5xband, 3xsupport | original file |
-| 490x264_Covid_19_Facemask_-_V0.5.1_EEH_Glowforge_basic_size_v3.svg | 490x264mm | Glowforge Basic | 5xstrap, 5xband, 3xsupport | latest |
+| Version | File | Cutting Dimensions | Cutter | Mask Pieces | Layout | Notes |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| glowforge/v2 | [490x264_Covid_19_Facemask_-_V0.5.1_EEH_Glowforge_basic_size_v2.svg](glowforge/490x264_Covid_19_Facemask_-_V0.5.1_EEH_Glowforge_basic_size_v2.svg) | 490x264mm | Glowforge Basic | 5xstrap, 5xband, 3xsupport | [cutting plan](images/490x264_Covid_19_Facemask_-_V0.5.1_EEH_Glowforge_basic_size_v2_cutting_plan.png) | original file |
+| glowforge/v3 | [490x264_Covid_19_Facemask_-_V0.5.1_EEH_Glowforge_basic_size_v2.svg](glowforge/490x264_Covid_19_Facemask_-_V0.5.1_EEH_Glowforge_basic_size_v3.svg) | 490x264mm | Glowforge Basic | 5xstrap, 5xband, 3xsupport | [cutting plan](images/490x264_Covid_19_Facemask_-_V0.5.1_EEH_Glowforge_basic_size_v3_cutting_plan.png) | latest |
 
 Preferred Cutting Order
 - green
