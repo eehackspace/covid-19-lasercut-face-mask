@@ -22,11 +22,14 @@ The files produce 5 straps, 5 front and 3 forehead bands.  Meaning an additional
 | cut | 0.5mm Polypropylene sheet | 400 | 90 | 3 | 0.5mm | 100% cut (just), requires clean up hand cutting |
 | engrave | 0.5mm Polypropylene sheet | 500 | 60 | 1 | 0.5mm | good |
 
-## Preferred Cutting Order
-- green
-- black
-- blue
-- red
+# Preferred Cutting Order
+| Order | Colour | Type | Speed | Power | Passes |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| 1 | magenta/purple | engrave | 500 | 60 | 1 |
+| 2 | green | cut | 280 | 100 | 1 |
+| 3 | black | cut | 280 | 100 | 1 |
+| 4 | blue | cut | 280 | 100 | 1 |
+| 5 | red | cut | 280 | 100 | 1 |
 
 # Screen Shot
 ![Glowforge cutting screenshot](glowforge_cutting_screenshot.png)
