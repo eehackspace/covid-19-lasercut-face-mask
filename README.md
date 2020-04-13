@@ -2,6 +2,8 @@
 
 This is our take on the great laser cut mask that Kitronic, Nottingham Hackspace and Smoke & Mirrors have created.  We have made some adjustments to better suit our laser cutting setup
 
+![assembled mask](images/assembled_mask.jpg)
+
 ## Fundraising
 We are raising money to assist us in the production of my face masks, you can see our GoFundme page [https://tiny.cc/eeh-ppe](https://tiny.cc/eeh-ppe).  Please share, all money goes directly back in to helping healthcare workers and the community.
 
