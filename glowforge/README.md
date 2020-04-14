@@ -21,6 +21,7 @@ The files produce 5 straps, 5 front and 3 forehead bands.  Meaning an additional
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | cut | 0.5mm Polypropylene sheet | 280 | 100 | 1 | 0.5mm | Cuts cleanly 100% of time |
 | cut | 0.5mm Polypropylene sheet | 400 | 90 | 3 | 0.5mm | 100% cut (just), requires clean up hand cutting |
+| cut | 0.5mm Polypropylene sheet | 280 | 80 | 1 | 0.25mm | Cuts cleanly 100% of time |
 | engrave | 0.5mm Polypropylene sheet | 500 | 40 | 1 | 0.5mm | good |
 
 # Preferred Cutting Order
