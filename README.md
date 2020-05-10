@@ -40,7 +40,7 @@ So far masks have been given to:
 ## Files
 | Version | Cutting Dimensions | Cutter | Mask Pieces | Layout | Notes |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [glowforge/v3](glowforge/490x264_Covid_19_Facemask_-_V0.5.1_EEH_Glowforge_basic_size_v3.svg) | 490x264mm | Glowforge Basic | 5xstrap, 5xband, 3xsupport | [cutting plan](images/490x264_Covid_19_Facemask_-_V0.5.1_EEH_Glowforge_basic_size_v3_cutting_plan.png) | maximum efficiency for cutting on glowforge basic bed |
+| [glowforge/v4](glowforge/490x264_Covid_19_Facemask_-_V0.5.1_EEH_Glowforge_basic_size_v4.svg) | 490x264mm | Glowforge Basic | 5xstrap, 5xband, 3xsupport | [cutting plan](images/490x264_Covid_19_Facemask_-_V0.5.1_EEH_Glowforge_basic_size_v4_cutting_plan.png) | maximum efficiency for cutting on glowforge basic bed |
 
 ## Preferred Cutting Order
 - green
